@@ -40,6 +40,6 @@ yarn-error.*
 expo-env.d.ts
 # @end expo-cli
 
-# Native files
-ios/
-android/
+# generated native folders
+/ios
+/android
